@@ -15,5 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+- Pokemon Detail Page Widget Tree
 ![Detail Page Widget Tree](https://github.com/halilyilmaaz/Pokedex/blob/main/images/pokemon_detail.PNG?raw=true)
+- Pokemon Detail Page Widget Tree
 ![Pokemon List Page Widget Tree](https://github.com/halilyilmaaz/Pokedex/blob/main/images/pokemon_list.PNG?raw=true)
